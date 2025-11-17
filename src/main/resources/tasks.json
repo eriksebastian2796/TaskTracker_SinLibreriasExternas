@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Corregir cogido",
+    "estado": "EN_PROCESO",
+    "fechaCreacion": "2025-11-14",
+    "fechaModificacion": "2025-11-16",
+    "prioridad": "ALTA"
+  },
+  {
+    "id": 2,
+    "descripcion": "Estudiar para el parcial de programacion 2",
+    "estado": "CANCELADO",
+    "fechaCreacion": "2025-11-14",
+    "fechaModificacion": "2025-11-16",
+    "prioridad": "MEDIA"
+  }
+]

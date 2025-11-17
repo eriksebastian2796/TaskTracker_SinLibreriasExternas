@@ -13,4 +13,14 @@ Funcionalidades principales
 
 Estructura del proyecto
 
-TaskTracker_SinLibreriasExternas/ ├── src/ │ └── main/ │ └── java/ │ └── com/erik/tasktracker/ │ ├── Main.java │ ├── Tarea.java │ ├── GestorTareas.java │ ├── Estado.java │ └── Prioridad.java ├── pom.xml ├── .gitignore └── README.md
+TaskTracker_SinLibreriasExternas
+/ ├── src/
+│   └── main/
+│     └── java/
+│       └── com/erik/tasktracker/ 
+│       ├── Main.java 
+│       ├── Tarea.java 
+│       ├── GestorTareas.java 
+│       ├── Estado.java 
+│       └── Prioridad.java 
+└── README.md
